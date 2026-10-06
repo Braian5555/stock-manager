@@ -1,0 +1,13 @@
+{
+  "name": "Stock Manager",
+  "short_name": "Stock Manager",
+  "description": "Control de stock, inventario, pedidos y proveedores",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6f8",
+  "theme_color": "#6c5ce7",
+  "lang": "es",
+  "icons": []
+}
